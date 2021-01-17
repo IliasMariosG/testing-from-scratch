@@ -2,13 +2,13 @@
 
 This is a series of exercises designed to strip away the complexity of RSpec so
 that the underlying concepts can be understood. There are no libraries here,
-just reasonably basic Ruby.
+just reasonably straightforward Ruby.
 
 ## Exercise 1
 
 Run `ruby secret_diary_test.rb` and you should see this:
 
-```ruby
+```bash
 ; ruby secret_diary_test.rb
 • PASS: that it starts off locked
 • PASS: that it locks
