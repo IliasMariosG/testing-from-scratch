@@ -24,6 +24,8 @@ Examine how mocking is done using `FakeDiary`. Take a look at `test.rb`.
 
 TDD the following features for a new class called `Calculator`.
 
+Use the `test.rb` tools as used in the previous example. Don't use RSpec.
+
 * The `add` method should take two arguments and return them added together
 * The `multiply` method should take two arguments and return them multiplied
   together
